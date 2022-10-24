@@ -27,6 +27,6 @@ En son tüme varıldığında dizi sıralanmış olur.
 
 Big-O gösterimini yazınız.
 
-- Worst case: **$O(n*\log{n})$**
-- Average case: **$O(n*\log{n})$**
-- Best case: **$O(n*\log{n})$**
+- Worst case: $O(n*\log{n})$
+- Average case: $O(n*\log{n})$
+- Best case: $O(n*\log{n})$
