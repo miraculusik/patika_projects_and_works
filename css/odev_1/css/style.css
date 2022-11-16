@@ -1,0 +1,50 @@
+/*--- GENERAL RULES ---*/
+header {
+  text-align: center;
+}
+/* body {
+  background-color: bisque;
+} */
+
+.title {
+  color: #eb6440;
+}
+
+article {
+  text-align: center;
+}
+
+.page--title {
+  color: #497174;
+  font-size: 35px;
+  text-align: center;
+}
+
+/*--- INDEX PAGE CSS RULES ---*/
+
+.ul--index {
+  display: inline-block;
+}
+
+.list--title--index {
+  color: #6d9886;
+  margin-bottom: 0px;
+}
+
+/*--- PRODUCTS PAGE CSS RULE ---*/
+ol {
+  display: inline-block;
+}
+ol li img {
+  width: 400px;
+}
+
+/*-- ABOUT US PAGE CSS RULE --*/
+
+.article--aboutUs {
+  text-align: left;
+}
+
+.title--aboutUs {
+  color: #9e4770;
+}
